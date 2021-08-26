@@ -3,7 +3,7 @@
 -  Just learned MySql and got 4 star and certificate from Hackerrank
 - 🌱 I’m currently learning App development using flutter and UI/UX designing using Adobe XD
 - 💞️ I’m looking to collaborate on Application development, where I can learn new skills or practise my skills 
-- 📫 How to reach me ... email- ankuranand2816@gmail.com
+- 📫 How to reach me ... email- anandraj2816@gmailcom
 
 <!---
 anandankur2816/anandankur2816 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

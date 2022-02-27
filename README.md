@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @anandankur2816, love competitive programming(CF(1425),CC(1905),AtC- anandankur). Google Kisckstart round D(Rank 1396)
+- 👋 Hi, I’m Ankur Anand, love competitive programming(CF(1425),CC(1905),AtC- anandankur). Google Kisckstart round D(Rank 1396)
 - 👀 I’m interested in Data Science, Machine learning roles. Reach out to me for collabaration and internship.
 - My resume- https://drive.google.com/file/d/1sdh17BWW3dhr0yf_CL6FHFk9TANo8d8i/view?usp=sharing
 - Currently DS & ML Intern @Episource
 - ML and DL 
-- Good at problems solving using C++. Solved more than 700 problems on various competitive programming sites. 
+- Good at problems solving using C++. Solved more than 800 problems on various competitive programming sites. 
 - Knows Python, Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, Jupyter, Vscode, PyCharm, Docker, Flask, AWS sagemaker, AWS(EC2, EFS, S3)
 -  Just learned MySql and got 4 star and certificate from Hackerrank
 - 🌱 I’m currently learning App development using flutter and UI/UX designing using Adobe XD

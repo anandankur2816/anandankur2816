@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ankur Anand, love competitive programming(CF(1425),CC(1905),AtC- anandankur). Google Kisckstart round D(Rank 1396)
+- 👋 Hi, I’m Ankur Anand, love competitive programming(CF(1425),CC(1901),AtC- anandankur). Google Kisckstart round D(Rank 1396)
 - 👀 I’m interested in Data Science, Machine learning roles. Reach out to me for collabaration and internship.
 - My resume- https://drive.google.com/file/d/1sdh17BWW3dhr0yf_CL6FHFk9TANo8d8i/view?usp=sharing
 - Currently DS & ML Intern @Episource

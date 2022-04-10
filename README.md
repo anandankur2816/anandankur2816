@@ -7,7 +7,7 @@
 - Knows Python, Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, Jupyter, Vscode, PyCharm, Docker, Flask, AWS sagemaker, AWS(EC2, EFS, S3)
 -  Just learned MySql and got 4 star and certificate from Hackerrank
 - 🌱 I’m currently learning App development using flutter and UI/UX designing using Adobe XD
-- 💞️ I’m looking to collaborate on Application development, where I can learn new skills or practise my skills 
+- 💞️ I’m looking to collaborate on Python development, Data science, where I can learn new skills or practise my skills 
 - 📫 How to reach me ... email- anandankur2816@gmailcom
 
 <!---
